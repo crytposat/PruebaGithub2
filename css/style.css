@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Font-niki";
+    src: url("font/font-niki-regular.ttf") format(ttf);
+
+    /* Al cargar el sitio, se muestra con fuentes por default y cuando termina de cargar todo, ahi muestra la fuente que elegimos  */
+    font-display: swap;
+}
